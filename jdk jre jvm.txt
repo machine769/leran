@@ -1,0 +1,9 @@
+jdk是java开发工具包
+
+包含：jvm虚拟机（使java运行）
+         核心类库 （java已经写好的指令，可以直接调用）
+         开发工具： javac java jdb jhat
+
+jre是java运行环境，由jvm，核心类库，运行工具组成
+
+jdk包含jre jre包含jvm
